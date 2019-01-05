@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# Pycharm project settings.
+.idea/
+
 # testing
 /coverage
 
